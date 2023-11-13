@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡Hi! I'm Saurabh Tiwari<br>🔭 I’m currently working on Codegram<br>🌱 I’m currently learning Web Development and Python<br>
+⚡Hi! I'm Saurabh Tiwari<br>🔭 I’m currently focusing on academics<br>🌱 I’m currently learning Web Development and Python<br>
 
 
 ## 🌐 Socials:
