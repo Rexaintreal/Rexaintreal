@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on [cupid](https://github.com/Rexaintreal/cupid)
+- 🔭 I’m currently working on [Gym Vogue](https://github.com/vanshpandey/gymvogue)
 
 - 🌱 I’m currently learning **Flask**
 
