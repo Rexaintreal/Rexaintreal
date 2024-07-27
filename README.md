@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 📝 I regularly post about my projects on [Instagram](https://www.instagram.com/saurabhcodes)
+- 📝 I regularly post about my projects on [Instagram](https://www.instagram.com/saurabhdoestechstuff)
 
 - 📫 How to reach me **[Email](mailto:saurabhtiwari7986@gmail.com)**
 
