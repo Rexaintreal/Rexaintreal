@@ -3,7 +3,7 @@
     <a href="https://twitter.com/saurabhcodes01" target="blank">
         <img src="https://img.shields.io/badge/Follow%20on-twitter-blue?logo=twitter&style=for-the-badge" alt="Follow on Twitter" />
     </a>
-    <a href="https://www.instagram.com/saurabhcodes/" target="blank">
+    <a href="https://www.instagram.com/saurabhcodesawfully/" target="blank">
         <img src="https://img.shields.io/badge/Follow%20on-Instagram-orange?logo=instagram&style=for-the-badge" alt="Follow on Instagram" />
     </a>
 </p>
