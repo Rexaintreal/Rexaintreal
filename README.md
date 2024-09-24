@@ -14,14 +14,14 @@
 
 - 🌱 I’m currently learning **Flask**
 
-- 📝 I regularly post about my projects on [Instagram](https://www.instagram.com/saurabhdoestechstuff)
+- 📝 I regularly post about my projects on [Instagram](https://www.instagram.com/saurabhcodesawfully)
 
 - 📫 How to reach me **[Email](mailto:saurabhtiwari7986@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saurabhcodes01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabhcodes01" height="30" width="40" /></a>
-<a href="https://instagram.com/saurabhcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabhcodes" height="30" width="40" /></a>
+<a href="https://instagram.com/saurabhcodesawfully" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurabhcodesawfully" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
