@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Tiwari</h1>
-💫 About Me:
+
 🔭 I’m currently working on Confessions<br>🌱 I’m currently learning Flask
 
 
