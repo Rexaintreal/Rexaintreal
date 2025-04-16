@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Tiwari</h1>
 
-🔭 I’m currently working on Confessions<br>🌱 I’m currently learning Flask
+🔭 I’m currently working on Syna<br>🌱 I’m currently learning Flask
 
 
 ## 🌐 Socials:
