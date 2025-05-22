@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Tiwari</h1>
 <p align="center">
-  🔭 I'm currently working on <b>Syna</b><br>
+  🔭 I'm currently working on <b>Nirvana</b><br>
   🌱 I'm currently learning <b>Flask</b>
 </p>
 
