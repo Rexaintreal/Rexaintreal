@@ -38,7 +38,7 @@
 
 ![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Rexaintreal&theme=dark&card_width=500)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rexaintreal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=19492&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SaurabhCodesAwfully?theme=dark&font=Poppins&ext=heatmap)
 
