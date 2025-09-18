@@ -32,6 +32,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Hive](https://img.shields.io/badge/hive-%23FF7A00.svg?style=for-the-badge&logo=hive&logoColor=white)
+![Isar](https://img.shields.io/badge/isar-%2300D4AA.svg?style=for-the-badge&logo=isar&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rexaintreal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
