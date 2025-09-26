@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Saurabh Tiwari</h1>
+<h1 align="center">Hello!, I'm Saurabh Tiwari</h1>
 <p align="center">
-  🌱 I'm currently learning <b>Flutter</b>
+  🌱 I'm currently learning <b>Flutter/Dart</b>
 </p>
 
 ## 🌐 Socials:
