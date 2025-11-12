@@ -1,23 +1,23 @@
 <h1 align="center">Hello!, I'm Saurabh Tiwari</h1>
 <p align="center">
-  🌱 I'm currently learning <b>Flutter/Dart</b>
+  I'm currently learning <b>Flutter/Dart</b>
 </p>
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhcodesawfully)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saurabhcodesawfully)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saurabhcodes01)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/saurabhcodesawfully)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://saurabhcodesawfully.pythonanywhere.com/)
 
-## 📫 Contact 
+## Contact 
 <div>
   <a href="mailto:saurabhtiwari7986@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
 
-## 💻 Tech Stack:
+## Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,7 +37,7 @@
 ![Hive](https://img.shields.io/badge/hive-%23FF7A00.svg?style=for-the-badge&logo=hive&logoColor=white)
 ![Isar](https://img.shields.io/badge/isar-%2300D4AA.svg?style=for-the-badge&logo=isar&logoColor=white)
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rexaintreal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Rexaintreal&theme=dark&card_width=500)
@@ -46,5 +46,5 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SaurabhCodesAwfully?theme=dark&font=Poppins&ext=heatmap)
 
-## 🔝 Top Contributed Repo
+## Top Contributed Repo
 ![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=Rexaintreal&limit=5&theme=dark&combine_all_yearly_contributions=true)
