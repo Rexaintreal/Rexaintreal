@@ -49,13 +49,13 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=19492&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=10" alt="Wakatime Stats" width="495" />
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=19492&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=10" alt="Wakatime Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rexaintreal&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="495" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rexaintreal&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rexaintreal&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="495" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rexaintreal&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rexaintreal&theme=dark" alt="GitHub Streak" width="495" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rexaintreal&theme=dark" alt="GitHub Streak" />
 
 
 ![](https://komarev.com/ghpvc/?username=rexaintreal&label=Views)
