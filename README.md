@@ -29,7 +29,6 @@
 <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/></a>
 <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/></a>
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/></a>
-<a href="https://docs.python.org/3/library/tkinter.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="tkinter" width="40" height="40"/></a>
 <a href="https://bulma.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="bulma" width="40" height="40"/></a>
 <a href="https://www.chartjs.org" target="_blank"><img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/></a>
 
@@ -52,7 +51,7 @@
 
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=19492&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=10" alt="Wakatime Stats" width="495" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rexaintreal&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="395" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rexaintreal&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="495" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rexaintreal&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="495" />
 
